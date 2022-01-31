@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucaccia-toredipianeti
+- 👀 I’m interested in planet formation and exoplanets in general
+- 🌱 I’m currently learning how to reduce ALMA data to study protoplanetary disks and validation of exoplanets.
+- 📫 How to reach me: luca.cacciapuoti@eso.org
