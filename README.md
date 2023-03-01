@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lucaccia-toredipianeti
 - 👀 I’m interested in planet formation and exoplanets in general
-- 🌱 I’m currently learning how to reduce ALMA data to study protoplanetary disks and validation of exoplanets.
+- 🌱 I’m work with interferometric data to study interstellar dust properties. I work with spaceborn mission's time series to look for exoplanets transits.
 - 📫 How to reach me: luca.cacciapuoti@eso.org
